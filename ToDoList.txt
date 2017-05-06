@@ -1,0 +1,11 @@
+•	3 pieces of movie clip with different animations
+•	2 pieces of button (not from user interface component) with event or state (over, down, and hit)
+•	2 pieces of motion tween with different animations
+•	2 pieces of shape tween with different animations
+•	2 pieces of masking 
+•	2 pieces of guide with different animations
+•	4 kinds of property or method access
+•	4 kinds of validation using Action Script
+•	3 kinds of frame control
+•	4 kinds of form component, except button and label
+•	Play sound using Action Script
