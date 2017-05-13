@@ -1,10 +1,21 @@
 Description:
 
+<OLD>
 Paint Blank merupakan video game yang bisa dimainkan di platform PC. Game ini merupakan game First-Person Shooter (FPS), dimana para pemain memakai sudut pandang orang pertama. Game ini bertemakan militer, dimana pemain bisa melawan pemain lawan dengan senjata yang digunakan, baik menembak dengan senapan ataupun menyerang dengan senjata jarak dekat.
 
 Setiap sebelum memulai permainan, pemain akan berada di halaman Menu, dimana pemain bisa mengatur karakter mereka, memilih senjata yang akan digunakan, dan masuk ke dalam pertandingan yang diinginkan. Pemain akan mendapatkan EXP (Experience Point) jika berhasil menyelesaikan pertandingan tanpa keluar sebelum selesai. Pemain yang menang atau berkontribusi banyak akan mendapatkan EXP yang lebih besar.
 
 Ada beberapa game mode yang disediakan dalam permainan ini, seperti Deathmatch, Bomb Mission, dan Zombie Mode. Setiap game mode ini akan dijelaskan lebih lanjut di bagian Rules. Ketika bermain, pemain perlu menggunakan kemampuan mereka dalam game agar bisa mencapai kemenangan. Kemampuan seperti tingkat akurasi, menembak sambil menghindar (Run and Gun), hingga mencari tempat strategis merupakan hal penting yang bisa menentukan kemenangan sebuah tim atau seorang pemain.
+
+
+<NEW>
+Paint Blank merupakan video game yang bisa dimainkan di platform PC, dengan genre First-Person Shooter (FPS).
+
+Sebelum memulai permainan, pemain bisa mengatur karakter mereka di halaman Menu. Pemain akan mendapat EXP jika menyelesaikan game tanpa keluar sebelum selesai.
+
+Beberapa game mode yang disediakan dalam game ini adalah Deathmatch, Bomb Mission, dan Zombie Mode. Setiap game mode akan dijelaskan di bagian Rules.
+
+
 
 
 Rules:
