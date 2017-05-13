@@ -4,6 +4,7 @@
 Scene 1 : Description , ScreenShot , SignUp Now
 
 •2 pieces of motion tween with different animations
+Scene 1 : Description , ScreenShot , SignUp Now
 
 •2 pieces of shape tween with different animations
 
@@ -20,4 +21,4 @@ Scene 1 : Description , ScreenShot , SignUp Now
 •4 kinds of form component, except button and label
 
 •Play sound using Action Script
-
+Scene 1 : Play and Pause Music
