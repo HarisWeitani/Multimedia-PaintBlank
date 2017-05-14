@@ -16,12 +16,15 @@ Scene 2 : Masking Description, Masking Rules
 •2 pieces of guide with different animations
 
 •4 kinds of property or method access
+Scene 4 : Akses Function
 
 •4 kinds of validation using Action Script
+Scene 4 : Basicly the entire script
 
 •3 kinds of frame control
 
 •4 kinds of form component, except button and label
+Scene 4 : Basicly the entire Scene
 
 •Play sound using Action Script
 Scene 1 : Play and Pause Music
